@@ -1,0 +1,11 @@
+.container {
+    height: 970px;
+    display: flex;
+    flex-direction: column;
+}
+.content {
+    flex: 1 ;
+}
+.test {
+    color:red;
+}
